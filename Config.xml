@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmldata>
+	<data type="SystemConfig" mailFlag="1" mailFlagDsc="1-send by mailserver;2-send by localhost smtp;3-sqlmail" />
+	<data type="AutoUpdatePath" path="I17jhAZvstz6bJtJvxeIc11qVgsdIYKD0ZzIYT5MkGj0eMxUr9jPAndTatoSStAFi36qWIG2Zd7XkhISeyKIYfX7/DlnpHC%kB/vpyH6rVJ1JZKwUg2OhosGgvuBD9%M3hUSTT29TSkuBSsigc5dElLO6tCSton7WAUMFWTktC8=" />
+	<data type="SystemConfigDsc" mailFlagDsc="1-send by mailserver;2-send by localhost smtp;3-sqlmail" />
+	<data type="TonsA01" content="7NcLg5akazXpk2xvYovNsEXCElgZUyzmytizoMSPHx9H%IRAhSUHYdjPwxlfrK5bnVLHBljyior6tNaN7n4StqSQj6v2I4FNwhFU8rS9yzxYlNySnWVSiL9zsP6N0ZreJWVC/7vLyx%JCaJe5qLyfJUmL6QGRRox" />
+	<data type="AgentFlowDbConnectionGOOD" content="7NcLg5akazUHsC8IKPc1w7kMmwsRhdttHTB8B0eaBIFgCBZsj50Aiv8Y5v4CUS1zK4BKN4I1b7OvRrhCCQGDjKAHmK87P7Yk0q7QK2fqFc%mqjl3whOr%x93Gu314zts2sWUtE4Oirl2VRYnSWayet7Oy0ckAPcyL0ZpuXr9aDM=" />
+  	<data type="AgentFlowDbConnection" content="7NcLg5akazUHsC8IKPc1w7kMmwsRhdttHTB8B0eaBIFgCBZsj50Aiv8Y5v4CUS1zK4BKN4I1b7OvRrhCCQGDjHEUfUpmE0foGBCD0m4o%EDxqnWGw25Lot0eLhwwfW5q/WN6AhGtgoeN0PbAqDyQfWrDTaqj%QygBGKEED0FbfNhAZ2cfphb9Q==" />
+  	<data type="ReportDbConnection" content="7NcLg5akazUHsC8IKPc1w7kMmwsRhdttHTB8B0eaBIFgCBZsj50Ail7D3BST3evapau/jrYzadWub0j1UtUDtSYnsODBr3qFIxtsqumZyQy7h7WmyAkqKZTzdW98Ew58Keb7n8nyQr4kqLPHd%V4FATo10oC5UIjged3ojow/g6292yybNg8Iw==" />
+	<data type="A01Connection" content="7NcLg5akazXpk2xvYovNsEXCElgZUyzmytizoMSPHx9H%IRAhSUHYdjPwxlfrK5bnVLHBljyior6tNaN7n4StqSQj6v2I4FNwhFU8rS9yzxYlNySnWVSiL9zsP6N0ZreJWVC/7vLyx%JCaJe5qLyfJUmL6QGRRox" />
+	<data type="A02Connection" content="7NcLg5akazXpk2xvYovNsEXCElgZUyzmytizoMSPHx9H%IRAhSUHYQ6Y28p5BHh79hRmG1R4ooklM0BFs75/goLmGxCbv8%0E4Vg2m2byi07xkaPX6TnNixe3ul39PXCMILKw23yTHHy5W%%QKBreWzB4eALTAZb" />
+  	<data type="A02_TEST_Connection" content="tWrq1RcgIb6ZICQ5cPBuIBHcHnVpLzvbL%GRdIfqwpDa%G62NRGA8Xpthl6htpDWxLOFQlofiNDtzTCXUa4VNAIVIy/VuEakm9yXOf3EsYo6eJc/p%foNeObuPh/jATiyZZuCKUvIx8ZjNdByHGIroyabDGi49pHirA%WF9bI0iuN2PHinjOvm9ikTCxWlbi" />
+  	<data type="TonsOfficeAConnection" content="7NcLg5akazXpk2xvYovNsEXCElgZUyzmytizoMSPHx9H%IRAhSUHYfH19bmHdecpokFEUHiqU1PLOjHQot66st/Dv3b1PVyQdu4151xLWA1uXxD6N4nUqOaFiJtdLljunuChFbRJWUi2%HNDr5YkbmF4oTWJz8glXABwAXkxe3c=" />
+	<data type="AEROConnection" content="7NcLg5akazXpk2xvYovNsEXCElgZUyzmytizoMSPHx9H%IRAhSUHYdM2a2kjMUcBaMPmsMlWqgocnX1dC9/fac5%bSMvdsmAYMT8buzHgEGNZyOdI9xv/DrmyGMKZfB/nywI2pSkKohldXHGB2tLQhIsbfTh3%t1" />
+	<data type="AERO_TEST_Connection" content="tWrq1RcgIb6ZICQ5cPBuIBHcHnVpLzvbL%GRdIfqwpDa%G62NRGA8Xpthl6htpDWXW2Pp6Kqo2f1QhUQMh33HUzUhNEkygMhGKfHSrN%hSi2kbUhlj8Sute3xgPcRlErwZSpSPnFMChRoAPhlw9DQb3ipWtl9KxL4isMYGVoquGBGhV1AhygGQLrvfKFAUMa" />
+	<data type="HR_Connection" content="7NcLg5akazVcee2rSkxxHXGtedZmvNCHnQW6dj7ijcv/iex3No%cJN/dfgj7ptaICxhr3WPbK4jzPnqIpJ7LOI/%bdunU47%GqrT8kTNla4DGw6nf8iJ1PRNSIn1V318FtspB9xfOYmAy/iSEfw9fjRt3krN%Gsg5E1ZPR/zY4RgmNGU%kRKETq4Av9ETSYJ5rdPEikHqJ1XRJ/KYZrGVQ==" />
+	<data type="APS_Connection" content="7NcLg5akazUvCT9Oajpn6JpZoe74syx1vwklQFlBln7e8WPVzrjEuT4F9QUTr165ex0268ik8YmXXnksIFPUCbOVmyHURYS4rrP2a1IcK0UCPrWbS7ean7lla/5z2YbxARVfmD2EJIIaxeD3ro4ptSIfFtO8%h7n/PCXfSWWRTyiZ4A69jWoO7axiXcv5MQv" />
+	<data type="AutoStockConn" content="7NcLg5akazV98vTZc/Y85Qgu7IecMzt9/pl3uT6hf%obyXpOVIGOPapEDT2nHE7YGGjV1Lmv2x7kHkRCXRWEDQ0rpkvMz6fVcC%oN50buu8VudmZz9opybiCD3naZjeeLjrL/8wNWlRt1%y4l0ekBV6rCpU0B7Doy/8iCKRBYRpZ/7Gm4LWh4g7Ep2nshte3" />
+  <data type="StockID" name="downtoearth">
+    <stock id="2881" cost="39.1163"/>
+  </data>
+	<data type="DebugSetting" />
+</xmldata>
